@@ -14,4 +14,4 @@ if computador == escolha:
   jogo = 'GANHOU PARABÉNS'
 else:
   jogo = 'PERDEU'
-print(f'eu pensei no número {escolha} voçê {jogo}!!!!!')
+print(f'eu pensei no número {escolha} voçê {jogo}!!!!')
